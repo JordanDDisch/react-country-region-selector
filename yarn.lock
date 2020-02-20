@@ -2315,7 +2315,7 @@ cosmiconfig@^2.1.0, cosmiconfig@^2.1.1:
     parse-json "^2.2.0"
     require-from-string "^1.1.0"
 
-"country-region-data@git+https://github.com/JordanDDisch/country-region-data.git":
+"country-region-data@git+https://github.com/JordanDDisch/country-region-data.git#27fed136adfd2062d248eef15c6b47418787dc5c":
   version "1.5.1"
   resolved "git+https://github.com/JordanDDisch/country-region-data.git#27fed136adfd2062d248eef15c6b47418787dc5c"
 
